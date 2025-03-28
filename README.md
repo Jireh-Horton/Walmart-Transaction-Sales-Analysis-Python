@@ -3,4 +3,4 @@ This repository contains the Python code notebook I created, as well as, the Wal
 
 
 
-![image](https://github.com/user-attachments/assets/ab3adce7-6a0c-4a07-a83e-46eca8bc8c2f)
+![walmart picture](https://github.com/user-attachments/assets/22e81e85-be5a-4b5f-bf9f-724dc9768b07)
