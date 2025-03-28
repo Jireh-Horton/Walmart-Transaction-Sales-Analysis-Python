@@ -1,5 +1,10 @@
 # Walmart-Transaction-Sales-Analysis-Python
-This repository contains the Python code notebook I created, as well as, the Walmart Sales Transaction csv file, I used to conduct a Transaction Sales analysis in Python.
+
+This repository includes the Python notebook I created for analyzing Walmart sales transactions, along with the CSV file used for the analysis. I discovered this data file here on GitHub. 
+
+
+
+
 
 
 
